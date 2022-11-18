@@ -1,0 +1,14 @@
+{
+  "name": "screenshot-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "screenshot": "node screenshot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^19.2.2"
+  }
+}
